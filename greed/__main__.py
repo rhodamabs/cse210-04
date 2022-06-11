@@ -1,4 +1,4 @@
-import os
+
 import random
 
 from game.casting.actor import Actor
@@ -18,8 +18,8 @@ from game.shared.point import Point
 FRAME_RATE = 12
 MAX_X = 900
 MAX_Y = 600
-CELL_SIZE = 18
-FONT_SIZE = 20
+CELL_SIZE = 15
+FONT_SIZE = 18
 COLS = 60
 ROWS = 40
 CAPTION = "Greed Game"
