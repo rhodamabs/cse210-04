@@ -34,4 +34,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* # TODO: Rhoda Mabundu
+* #  Rhoda Mabundu
